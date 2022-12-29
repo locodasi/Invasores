@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639490641 source:d:\escritorio\programacion 2\final\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<list>
+
+1639490642 source:e:\uces\programacion 2\final\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<list>
+
